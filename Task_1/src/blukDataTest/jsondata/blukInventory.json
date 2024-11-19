@@ -1,0 +1,38 @@
+[
+    { "productId": 1, "storeId": 1, "quantityOnShelf": 100, "quantityInOrder": 50 },
+    { "productId": 2, "storeId": 1, "quantityOnShelf": 150, "quantityInOrder": 75 },
+    { "productId": 3, "storeId": 1, "quantityOnShelf": 200, "quantityInOrder": 120 },
+    { "productId": 4, "storeId": 1, "quantityOnShelf": 180, "quantityInOrder": 90 },
+    { "productId": 5, "storeId": 1, "quantityOnShelf": 300, "quantityInOrder": 150 },
+    { "productId": 6, "storeId": 1, "quantityOnShelf": 250, "quantityInOrder": 130 },
+    { "productId": 7, "storeId": 1, "quantityOnShelf": 500, "quantityInOrder": 250 },
+    { "productId": 8, "storeId": 1, "quantityOnShelf": 400, "quantityInOrder": 200 },
+    
+    { "productId": 1, "storeId": 2, "quantityOnShelf": 100, "quantityInOrder": 50 },
+    { "productId": 2, "storeId": 2, "quantityOnShelf": 150, "quantityInOrder": 75 },
+    { "productId": 3, "storeId": 2, "quantityOnShelf": 200, "quantityInOrder": 120 },
+    { "productId": 4, "storeId": 2, "quantityOnShelf": 180, "quantityInOrder": 90 },
+    { "productId": 5, "storeId": 2, "quantityOnShelf": 300, "quantityInOrder": 150 },
+    { "productId": 6, "storeId": 2, "quantityOnShelf": 250, "quantityInOrder": 130 },
+    { "productId": 7, "storeId": 2, "quantityOnShelf": 500, "quantityInOrder": 250 },
+    { "productId": 8, "storeId": 2, "quantityOnShelf": 400, "quantityInOrder": 200 },
+    
+    { "productId": 1, "storeId": 3, "quantityOnShelf": 100, "quantityInOrder": 50 },
+    { "productId": 2, "storeId": 3, "quantityOnShelf": 150, "quantityInOrder": 75 },
+    { "productId": 3, "storeId": 3, "quantityOnShelf": 200, "quantityInOrder": 120 },
+    { "productId": 4, "storeId": 3, "quantityOnShelf": 180, "quantityInOrder": 90 },
+    { "productId": 5, "storeId": 3, "quantityOnShelf": 300, "quantityInOrder": 150 },
+    { "productId": 6, "storeId": 3, "quantityOnShelf": 250, "quantityInOrder": 130 },
+    { "productId": 7, "storeId": 3, "quantityOnShelf": 500, "quantityInOrder": 250 },
+    { "productId": 8, "storeId": 3, "quantityOnShelf": 400, "quantityInOrder": 200 },
+    
+    { "productId": 1, "storeId": 4, "quantityOnShelf": 100, "quantityInOrder": 50 },
+    { "productId": 2, "storeId": 4, "quantityOnShelf": 150, "quantityInOrder": 75 },
+    { "productId": 3, "storeId": 4, "quantityOnShelf": 200, "quantityInOrder": 120 },
+    { "productId": 4, "storeId": 4, "quantityOnShelf": 180, "quantityInOrder": 90 },
+    { "productId": 5, "storeId": 4, "quantityOnShelf": 300, "quantityInOrder": 150 },
+    { "productId": 6, "storeId": 4, "quantityOnShelf": 250, "quantityInOrder": 130 },
+    { "productId": 7, "storeId": 4, "quantityOnShelf": 500, "quantityInOrder": 250 },
+    { "productId": 8, "storeId": 4, "quantityOnShelf": 400, "quantityInOrder": 200 }
+  ]
+  
